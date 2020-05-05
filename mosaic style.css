@@ -1,0 +1,225 @@
+html{
+     font-size: 10px;
+  margin: 0;
+  font-family: sans-serif;
+}
+@font-face {
+    font-family: ;
+    src: url('../abeezee-regular-webfont.woff2') format('woff2'),
+url('../abeezee-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'intro_head_rbase';
+    src: url('../introheadr-base-webfont.woff2') format('woff2'),
+url('../introheadr-base-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    
+   	text-decoration: underline;
+    text-align: left;
+}
+
+.boxBoxGrey {
+    border: 1px solid dimgray;
+    background-color: dimgray;
+}
+.nav {
+    text-decoration: underline;
+}
+
+title{
+    font-family: 'Trade Winds', cursive;
+}
+
+.kRap{
+	text-align: center;
+	font: "introheadr base";
+	color: gray;
+	font-size: 10px;
+}
+
+h1 {
+    padding: inherit;
+    margin: 50px;
+    bottom: 10px;
+    text-align: left;
+    color:darkred;
+    font-family:"introheadr base";
+    font-size: 15px;
+}
+
+h2 {
+    margin: 10px;
+    padding: 20px;
+    bottom: 15px;
+    left: 45px;
+    right: 45px;
+    top: 15px;
+    text-align: center;
+    color:darkred;
+    font-family:"introheadr base";
+    font-size: 10px;
+}
+
+h3 {
+    text-align: left;
+    color: darkred;
+    font-family:"BebasNeue Regular";
+    font-size: 300%;
+	margin-bottom: 3px;
+	margin-top: 30px;
+}
+
+h4 {
+	font: "introrustg base2";
+	font-size: 20px;
+	text-align: inherit;
+	color: gray;
+	margin: auto;
+	
+}
+
+.cb97 {
+    margin: auto;
+    padding: inherit;
+    text-align: left;
+    color: darkred;
+    font-family: monospace;
+    font-size: 170%;
+}
+.spearB {
+    margin: auto;
+    padding: inherit;
+    text-align: left;
+    color: darkred;
+    font-family: monospace;
+    font-size: 170%;
+}
+
+h4 {
+    text-align: left;
+    color: antiquewhite;
+    font-family: monospace;
+    font-size: 150%;
+}
+p {
+	color: antiquewhite;
+    font-family:fantasy;
+    font-size: 190%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li {
+    float: left;
+    clear: left;
+    color: lightpink;
+    text-align: left;
+}
+
+li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: darkred;
+}
+a {
+    margin: auto;
+    padding: 10px;
+    color: darkolivegreen;
+	text-align: left;
+    font-family: monospace;
+    font-size: 90%;
+}
+
+
+footer {
+	margin: auto;
+    padding: 10px;
+    color: antiquewhite;
+    text-align: justify;
+    font-family: fantasy;
+    font-size: 100%
+}
+
+hr {
+	
+}
+
+button {
+	
+}
+
+.allTogether{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	border-color: #000000;
+}
+
+.chrisPic{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+.changbinPic{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 00px;
+	margin-right: 0px;
+}
+
+.jisung{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	
+}
+.link{
+	text-align: center;
+	color: antiquewhite;
+	font: "BebasNeue Regular";
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
+
+footer{
+	margin-top: 300px;
+
+}
+.end{
+	margin: 40px;
+	font: "introheadr base";
+	font-size: 10px;
+}
