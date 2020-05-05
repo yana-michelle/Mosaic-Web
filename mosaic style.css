@@ -4,9 +4,7 @@ html{
   font-family: sans-serif;
 }
 @font-face {
-    font-family: ;
-    src: url('../abeezee-regular-webfont.woff2') format('woff2'),
-url('../abeezee-regular-webfont.woff') format('woff');
+    font-family: gruppo;
     font-weight: normal;
     font-style: normal;
 
