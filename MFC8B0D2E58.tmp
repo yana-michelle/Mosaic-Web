@@ -25,7 +25,7 @@ html{
 }
 
 body {
-    background-color: beige;
+    background-color: white;
 }
 
 
@@ -397,6 +397,15 @@ h4 {
 }
 
 
+	
+	.pastorLucas{
+	margin-top: 37%;
+	margin-right: 50%;
+	text-align: center;
+	font-family: 'VirtuousSlabBold';
+	font-size: 15px;
+}
+
 .pastorLucas{
 	margin-top: 37%;
 	margin-right: 50%;
@@ -452,28 +461,27 @@ h4 {
 }
 .melody{
 	position: absolute;
-	margin-top: 47%;
+	margin-top: 45%;
 	margin-right: 50%;
 	text-align: center;
 	font-family: 'VirtuousSlabBold';
 	font-size: 15px;
-	margin-left: 18.5%;
+	padding-left: 200px;
 }
 
 .wor{
-	margin-top: 49%;
-	margin-right: 60%;
+	margin-top: 47%;
+	margin-right: 50%;
 	text-align: center;
 	color: #89B7C8;
 	position: absolute;
-	margin-left: 20%;
+	padding-left: 220px;
 }
 
 .melodyPic{
 	position: absolute;
-	margin-top: 51%;
-	margin-right: 60%;
-	margin-left: 5%;
+	margin-top: 40%;
+	margin-right: 50%;
 }
 
 .sylvia{
@@ -500,30 +508,9 @@ h4 {
 	margin-top: 3%;
 	margin-left: 60%
 }
-
-.sal{
-	position: absolute;
-	margin-top: 47%;
-	margin-right: 50%;
-	text-align: center;
-	font-family: 'VirtuousSlabBold';
-	font-size: 15px;
-	margin-left: 15.5%;
-}
-
-.as{
-	position: absolute;
-	margin-right: 60%;
-	text-align: center;
-	color: #89B7C8;
-	margin-left: 17%;
-	margin-top: 49%;
-}
 .salPic{
 	position: absolute;
-	margin-top: 51%;
-	margin-left: 5%;
-	margin-right: 60%;
+	margin-top: 90%;
 }
 img{
 	border-radius: 50%;
@@ -544,19 +531,6 @@ img{
 
 .banner1{
 	margin-top: 135%;
-	margin-bottom: 0%;
-	text-align: center;
-	height: 40px;
-	font-family: 'GiraffeyRegular';
-	font-size: 40px;
-	color: black;
-	background-color: #D8B90C;
-	
-	
-}
-
-.banner2{
-	margin-top: 145%;
 	margin-bottom: 0%;
 	text-align: center;
 	height: 40px;
