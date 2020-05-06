@@ -290,6 +290,29 @@ h4 {
 	padding-right: 100px;
 	font-family: 'VirtuousSlabThin';
 }
-.teenPhoto, img{
+
+.anchoredKids{
+	float: right;
+	font-family: 'GiraffeyRegular';
+	font-size: 90px;
+	width: 50%;
+	color: #377180;
+	padding-left: 700px;
+	padding-top: 50px;
+}
+
+.kids{
+	float: right;
+	font-family: 'VirtuousSlabThin';
+	font-size: 25px;
+	text-align: right;
+	padding-top: 75px;
+	width: 50%;
+}
+
+.teenPhoto{
+	float: right;
+}
+img{
 	border-radius: 50%;
 }
