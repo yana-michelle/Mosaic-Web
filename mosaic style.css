@@ -232,12 +232,14 @@ h4 {
 	padding-left: 230px;
 }
 
-.jisung{
-	text-align: center;
-	margin-bottom: 10px;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 10px;
+.prayer{
+	text-align: right;
+	width: 800px;
+	float: right;
+	font-size: 30px;
+	padding-top: 370px;
+	padding-right: 100px;
+	font-family: 'VirtuousSlabThin';
 	
 }
 .link{
