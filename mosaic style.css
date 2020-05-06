@@ -319,8 +319,8 @@ h4 {
 
 .kidsPhoto{
 	position: absolute;
-	padding-left: 100px;
-	padding-top: 200px;
+	margin-left: 20%;
+	margin-top: 20%;
 }
 
 .teensYouth{
@@ -345,7 +345,7 @@ h4 {
     position: absolute;
     padding-top: 0px;
     padding-bottom: 50px;
-    
+    width: 40%
 }
 
 .teenPhoto{
