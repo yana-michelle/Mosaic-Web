@@ -120,14 +120,7 @@ title{
     font-family: 'Trade Winds', cursive;
 }
 
-.hello {
-	text-align: center;
-	text-decoration: underline black;
-	font-family: 'GiraffeyRegular';
-	color: black;
-	font-size: 100px;
-	
-}
+
 
 
 h1 {
@@ -193,45 +186,15 @@ h4 {
     font-family: monospace;
     font-size: 150%;
 }
-p {
-	color: antiquewhite;
-    font-family:fantasy;
-    font-size: 190%;
+.hello {
+	text-align: center;
+	text-decoration: underline black;
+	font-family: 'GiraffeyRegular';
+	color: black;
+	font-size: 100px;
+	
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    
-}
-li {
-    float: left;
-    clear: left;
-    color: lightpink;
-    text-align: left;
-}
-
-li a {
-    display: block;
-    color: gray;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover{
-    background-color: darkred;
-}
-a {
-    margin: auto;
-    padding: 10px;
-    color: darkolivegreen;
-	text-align: left;
-    font-family: monospace;
-    font-size: 90%;
-}
 .panel{
 	text-align: center;
 	border-color: #000000;
@@ -242,6 +205,7 @@ a {
 	color: #377180;
 	font-family: 'GiraffeyRegular';
 	font-size: 50px;
+	padding-top: 50px;
 }
 
 .panel2{
