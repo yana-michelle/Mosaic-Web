@@ -4,7 +4,7 @@ html{
   font-family: sans-serif;
 }
 @font-face {
-    font-family: gruppo;
+    font-family: "less light";
     font-weight: normal;
     font-style: normal;
 }
@@ -38,7 +38,7 @@ body {
 }
 
 .text1{
-	font-family: "Varela Regular";
+	font-family: 'less light';
 	font-size: 100px;
 	color: #377180;
     position: absolute;
@@ -80,7 +80,7 @@ body {
   color: white;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: "Varela Regular";
+  font-family: 'less light';
   margin: 0px;
 }
 
@@ -117,11 +117,11 @@ title{
     font-family: 'Trade Winds', cursive;
 }
 
-.kRap{
+.hello {
 	text-align: center;
-	font: "introheadr base";
-	color: gray;
-	font-size: 10px;
+	font-family: "less light";
+	color: black;
+	font-size: 50px;
 }
 
 
@@ -145,21 +145,16 @@ h2 {
     top: 15px;
     text-align: center;
     color:#2D5D69;
-    font-family:"introheadr base";
+    font-family:'less light';
     font-size: 10px;
 }
 
 h3 {
-    position: absolute;
+    position: relative;
     text-align: center;
-    color: black;
-    font-family: "Varela Regular";
-    font-size: 50px;
-    top: 1px;
-    bottom: 50%;
-    left: -31px;
-    right: 0%;
-    width: 444px;
+    color:#27515C;
+    font-family: 'less bold';
+    font-size: 100px;
 }
 
 h4 {
