@@ -295,9 +295,8 @@ h4 {
 	float: right;
 	font-family: 'GiraffeyRegular';
 	font-size: 90px;
-	width: 50%;
+	margin-left: 50%;
 	color: #377180;
-	padding-left: 900px;
 	padding-top: 50px;
 	position: absolute;
 }
