@@ -308,15 +308,13 @@ h4 {
 	font-size: 25px;
 	text-align: right;
 	padding-top: 150px;
-	width: 40%;
-	padding-left: 700px;
-	padding-right: 3000px;
+	width: 50%;
+	padding-left: 900px;
 	position: absolute;
 }
 
 .kidsPhoto{
 	position: absolute;
-	padding-left: 100px;
 }
 
 .teenPhoto{
