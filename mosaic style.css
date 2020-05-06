@@ -47,11 +47,13 @@ body {
     left: 352px;
 }
 .myLogo {
-	background: url("assets/images/header.jpg")
+	background: url("assets/images/header.jpg");
 }
-.boxBoxGrey {
-    border: 1px solid dimgray;
-    background-color: dimgray;
+.smallLogo {
+	background:url("assets/images/teens header crop.jpg");
+}
+.infoHeader{
+	background: url("assets/images/hilda outside header.jpg");
 }
 .navbar {
   overflow: hidden;
