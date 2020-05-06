@@ -343,10 +343,14 @@ h4 {
 	margin-top: 85%;
 	margin-left: 0%;
     position: absolute;
-	margin-right: 50%;
     padding-top: 0px;
     padding-bottom: 50px;
     
+}
+
+.teenPhoto{
+	margin-top: 50%;
+	margin-left: 50%;
 }
 .whereWeAre{
 	text-align: center;
