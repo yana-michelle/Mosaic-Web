@@ -218,12 +218,17 @@ h4 {
 	font-family: 'VirtuousSlabThin';
 }
 
-.changbinPic{
+.ourPrayerForYou{
 	text-align: center;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-left: 00px;
-	margin-right: 0px;
+	border-color: #000000;
+	width:700px;
+	float: left;
+	position: absolute;
+	text-decoration: underline;
+	color: #377180;
+	font-family: 'GiraffeyRegular';
+	font-size: 90px;
+	padding-top: 50px;
 }
 
 .jisung{
