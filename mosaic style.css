@@ -294,7 +294,7 @@ h4 {
 .anchoredKids{
     float: right;
     font-family: 'GiraffeyRegular';
-    font-size: 90px;
+    font-size: 100px;
     margin-left: 50%;
     color: #377180;
     margin-top: 5%;
@@ -306,9 +306,9 @@ h4 {
 .kids{
 	float: right;
 	font-family: 'VirtuousSlabThin';
-	font-size: 25px;
+	font-size: 45px;
 	text-align: right;
-	padding-top: 150px;
+	margin-top: 15%;
 	width: 100%;
 	margin-left: 50%;
 	margin-right: 0%;
