@@ -219,7 +219,7 @@ h4 {
 }
 
 .ourPrayerForYou{
-	text-align: center;
+	text-align: right;
 	border-color: #000000;
 	width:700px;
 	float: left;
@@ -228,7 +228,8 @@ h4 {
 	color: #377180;
 	font-family: 'GiraffeyRegular';
 	font-size: 90px;
-	padding-top: 50px;
+	padding-top: 270px;
+	padding-right: 70px;
 }
 
 .jisung{
