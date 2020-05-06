@@ -331,16 +331,16 @@ h4 {
 	color: #377180;
 	margin-right: 50%;
 	margin-left: 5%;
-	margin-top: 60%;
+	padding-top: 750px;
 	position: absolute;
 }
 
 .teens{
 	float: left;
 	font-family: 'VirtuousSlabThin';
-	font-size: 25px;
+	font-size: 35px;
 	text-align: left;
-	margin-top: 70%;
+	margin-top: 65%;
 	margin-left: 5%;
     position: absolute;
     padding-top: 0px;
@@ -350,7 +350,6 @@ h4 {
 
 .teenPhoto{
 	margin-top: 50%;
-	overflow: hidden;
 	margin-left: 50%;
 	margin-right: 10%;
 }
