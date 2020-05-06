@@ -17,8 +17,8 @@ html{
 }
 
 @font-face {
-	font-family: 'simplifica';
-	src: url("assets/fonts/__MACOSX/SIMPLIFICA Typeface/._SIMPLIFICA Typeface.ttf");
+	font-family: 'GiraffeyRegular';
+	src: url("assets/fonts/Giraffey/onlinefontconverter.com/converted-files/GiraffeyRegular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -122,7 +122,7 @@ title{
 .hello {
 	text-align: center;
 	text-decoration: underline black;
-	font-family: "less light";
+	font-family: GiraffeyRegular;
 	color: black;
 	font-size: 50px;
 }
@@ -263,11 +263,12 @@ button {
 }
 
 .panel2{
-	text-align: left;
-	width: 300px;
+	text-align: right;
+	width: 500px;
+	float: right;
 	position: absolute;
 	font-size: 20px;
-	padding-top: 50px;
+	padding-top: 10px;
 	
 }
 
