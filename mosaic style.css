@@ -522,8 +522,8 @@ h4 {
 .salPic{
 	position: absolute;
 	margin-top: 51%;
-	margin-left: 5%;
-	margin-right: 60%;
+	margin-left: 0%;
+	margin-right: 50%;
 }
 img{
 	border-radius: 50%;
