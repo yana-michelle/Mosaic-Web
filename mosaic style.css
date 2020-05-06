@@ -4,7 +4,8 @@ html{
   font-family: sans-serif;
 }
 @font-face {
-    font-family: "less light";
+    font-family: 'VirtuousSlabThin';
+	src: url("assets/fonts/Virtuous Slab Font/VirtuousSlabThin.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -124,7 +125,8 @@ title{
 	text-decoration: underline black;
 	font-family: 'GiraffeyRegular';
 	color: black;
-	font-size: 50px;
+	font-size: 100px;
+	
 }
 
 
@@ -230,26 +232,6 @@ a {
     font-family: monospace;
     font-size: 90%;
 }
-
-
-footer {
-	margin: auto;
-    padding: 10px;
-    color: antiquewhite;
-    text-align: justify;
-    font-family: fantasy;
-    font-size: 100%
-}
-
-hr {
-	
-}
-
-button {
-	
-}
-
-
 .panel{
 	text-align: center;
 	border-color: #000000;
@@ -258,18 +240,17 @@ button {
 	position: absolute;
 	text-decoration: underline;
 	color: #377180;
-	font-family: "less bold";
+	font-family: 'GiraffeyRegular';
 	font-size: 50px;
 }
 
 .panel2{
 	text-align: right;
-	width: 500px;
+	width: 700px;
 	float: right;
-	position: absolute;
 	font-size: 20px;
-	padding-top: 10px;
-	
+	padding-top: 50px;
+	font-family: 'VirtuousSlabThin';
 }
 
 .changbinPic{
