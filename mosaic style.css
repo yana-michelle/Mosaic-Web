@@ -249,19 +249,26 @@ button {
 	
 }
 
+
 .panel{
 	text-align: center;
 	border-color: #000000;
-	width: 500px;
-	overflow: hidden;
+	width:700px;
+	float: left;
+	position: absolute;
+	text-decoration: underline;
+	color: #377180;
 	font-family: "less bold";
 	font-size: 50px;
 }
 
 .panel2{
-	text-align: center;
+	text-align: left;
 	width: 300px;
-	float: right;
+	position: absolute;
+	font-size: 20px;
+	padding-top: 50px;
+	
 }
 
 .changbinPic{
